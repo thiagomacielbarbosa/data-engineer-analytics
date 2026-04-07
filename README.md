@@ -1,2 +1,19 @@
-# data-engineer-analytics
-📊 Portfólio de Data Analytics &amp; Power BI,🎓 Pós-graduação em Ciência de Dados e Analytics | PUC-RIO, ADS Graduate | Estácio, 💼 Projetos em Python, SQL, Power BI, Machine Learning e Análise Exploratória 🚀 Transformando dados em insights visuais e soluções estratégicas
+# 📊 Projetos de Data Science – Kaggle
+
+Este repositório contém projetos de **Data Science e Machine Learning** desenvolvidos a partir de competições e datasets do **Kaggle**, utilizando **Python** no **Google Colab**.
+
+Os notebooks têm caráter educacional e prático, abordando desde análise exploratória de dados até a construção e avaliação de modelos preditivos.
+
+---
+
+## 🧠 Tecnologias Utilizadas
+
+- Python 
+- Google Colab 
+- Pandas 
+- NumPy 
+- Matplotlib 
+- Seaborn 
+- Scikit-learn 
+
+---
