@@ -1,4 +1,4 @@
-# 📊 Projetos de Data Science – Kaggle
+# 📊 5 Projetos de Data Science – Kaggle
 
 Este repositório contém projetos de **Data Science e Machine Learning** desenvolvidos a partir de competições e datasets do **Kaggle**, utilizando **Python** no **Google Colab**.
 
